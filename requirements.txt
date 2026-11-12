@@ -1,6 +1,6 @@
 pandas
 requests
-BeautifulSoup
+beautifulsoup4
 flask
 python-dotenv
 numpy
